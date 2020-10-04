@@ -9,7 +9,7 @@ It's Simple, Fast, And Powerfull!
 
 ## How to use
 There's a help page in the ui that you can read to use it.<br>
-But the downloader is not that complicated ;) !
+But the downloader is not that complicated ;)
 
 ## Features
 - Not need to enter any link just, Search what you want!
@@ -17,5 +17,12 @@ But the downloader is not that complicated ;) !
 - Multiple download also supported.
 - Download in specific bitrate (quality).
 
+## Requirements
+- Youtube-dl
+- youtube-search-python
+- Pyqt5 for gui ( I DON'T KNOW THAT IT IS NEEDED OR NOT )
+
 ## Todo
-- 
+- Add a prefrences dialog so user can change the download path.
+- Make it look more beautiful!
+- Display the total size of selected audios.
