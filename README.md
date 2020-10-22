@@ -23,6 +23,4 @@ But the downloader is not that complicated ;)
 - Pyqt5 for gui ( I DON'T KNOW THAT IT IS NEEDED OR NOT )
 
 ## Todo
-- Add a prefrences dialog so user can change the download path.
-- Make it look more beautiful!
 - Display the total size of selected audios.
